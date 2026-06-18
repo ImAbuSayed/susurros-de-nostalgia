@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Susurros de nostalgia
+
+This log tracks the cryptographic history and versioning for the song **Susurros de nostalgia** (susurros-de-nostalgia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T21:43:41.753243 | `v1` | `c72b9a9773de505458519672a4838f5e1007271dba86b0faee27a50046d6c9cc` | `f57bd917ec6d114c2ae01012838cbcda284a0cfc2a46d56c6042a88110d8aa67` | `2026-06-18_susurros-de-nostalgia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
